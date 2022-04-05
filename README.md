@@ -1,5 +1,5 @@
 # inventory-management
-inventory-management, covers the following:-
+inventory-management of Shapes, covers the following:-
 
 Gang of Four (GoF) 
 - 1.Behavioral - Iterator pattern
