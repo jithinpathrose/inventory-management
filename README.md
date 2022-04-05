@@ -1,5 +1,5 @@
 # inventory-management
-inventory-management
+inventory-management, covers the following:-
 
 Gang of Four (GoF) 
 - 1.Behavioral - Iterator pattern
